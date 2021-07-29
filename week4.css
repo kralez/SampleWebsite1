@@ -1,0 +1,43 @@
+
+			body
+			{
+				background-color: limegreen;
+			}
+
+			font
+			{
+				color: red;
+				font-size: 25px;
+			}
+
+			img
+			{
+				width: 500px;
+				border:  4px dotted red;
+				margin-left: 200px;
+				margin-top: 100px;
+			}
+
+			p
+			{
+				color:  blue;
+				width: 250px;
+				margin-top: 100px;
+				margin-left: 30%;
+			}
+
+			h1
+			{
+				color:  yellow;
+			}
+
+			i
+			{
+				font-size: 25px;
+			}
+
+			em
+			{
+				color:  yellow;
+			}
+
